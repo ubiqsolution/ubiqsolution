@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [ubiqsolution](http://wwww.ubiqsolution.com) website;
+- ✨ Crafted last [ubiqsolution](http://www.ubiqsolution.com) website;
 - 🍑 What about this?
 
 ##### BIO
