@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**ubiqsolution/ubiqsolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Republic of Korea.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [ubiqsolution](http://wwww.ubiqsolution.com) website;
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **OnLineShoppingMall C.E.O Republic of Korea**
+- ⚙️ I use daily: `.py`, `.js`, `.vba`, `.html`, `.css`, `.psd`
+- 🌍 I'm mostly active within the **Coding Community**
+- 💅 Designed: [SEED.SALES](http://grass.dothome.co.kr), [GRILL.SALES](http://smartallkr.cafe24.com), etc…
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **development**, **design thinking**, **WordPress**
+- 📫 Reach me: [twitter.com/skhanaro](https://twitter.com/skhanaro)
+- ⚡️ Fun fact: I'm a Small Business Owner and I Like Coding :|
+- ⚡️ Please read it: I'm not going to get a job :)
+- 
