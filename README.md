@@ -14,7 +14,7 @@
 - 🌍 I'm mostly active within the **Coding Community**
 - 💅 Designed: [Seed Sales Go!](http://grass.dothome.co.kr), [Grill Sales Go!](http://smartallkr.cafe24.com), etc…
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **development**, **design thinking**, **wordpress**
+- 💬 Ping me about **design**, **development**, **design thinking**, **wordpress**, **pc master**, **linux master**, **raspberrypi**, **arduino**, **it engineer**
 - 📫 Reach me: [twitter.com/skhanaro](https://twitter.com/skhanaro)
 - ⚡️ Fun fact: I'm a Small Business Owner and I Like Coding :|
 - ⚡️ Please read it: I'm not going to get a job :)
